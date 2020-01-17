@@ -1,2 +1,2 @@
 # it202-hello-world
-hw 1.3
+My name is Cynthia. I go to UIC and I am excited to graduate next semester.
